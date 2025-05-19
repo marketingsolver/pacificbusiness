@@ -13384,6 +13384,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   position: relative;
   display: block;
   font-size: 24px;
+  text-align: justify;
   line-height: 32px;
   color: #5d5d66;
 }
